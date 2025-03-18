@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/c16d1162-262d-4beb-841c-ad21a40b5d40)
 
-A script that uses Google Apps Script to notify a Discord channel of a specific user's number of Github contributions in a day.
+A script that uses Google Apps Script to *nicely* notify a Discord channel of a specific user's number of Github contributions in a day.
 
 ## Usage
 
